@@ -32,10 +32,10 @@ To predict the orchid images by single classifier, see [**predict.py**](predict.
 The models save to the google driver, then you can download
 類別|模型名稱/用途|Jupyter Notebook|權重檔|模型預測結果|
 --|--|--|--|--|
-model_640|640|[yolov7.ipynb](https://github.com/JulianLee3105214065/AICtation/blob/main/tf_efficientnetv2_m_in21ft1k.ipynb)|[model_640.pt](https://drive.google.com/file/d/1R8ez_bH2H5KsshnWdeA4rcYTcUcqbHhD/view?usp=sharing)|[模型一結果](https://github.comesult/tf_efficientnetv2_m_in21ft1k_origin.zip)|
-model_1280|1280|[yolov7.ipynb](https://github.com/Jee3105514065/AICUP_STAS_Segmentation/blob/main/tu-eca_nfnet_l2_DeepLabV3Plus.ipynb)|[model_640.pt](https://drive.google.com/file/d/1Cbgkb0SNsghGo8x0SgHgYPR9kAbOJjLA/view?usp=sharing)|[模型二結果](https://github.com/main/Result/tu-eca_nfnet_l2_DeepLabV3Plus_origin.zip)|
-model_1920|1920|[yolov7.ipynb](https://github.com/3410514065/AICUP_STAS_Segmentation/blob/main/tu-tf_efficientnet_b6_ns.ipynb)|[tu.pt](https://drive.google.com/file/d/1lkkzq2SbDvxgvNDKGoGMiRDNEZ7399Cm/view?usp=sharing)|[模型三結果](https://github.n/blob/main/Result/tu-tf_efficientnet_b6_nsorigin.zip)
-Ensemble|NMS Ensemble|[Image_ensemble.ipynb](https://github.com/Jue31065/AICUP_STAS_Segmentation/blob/main/Image_ensemble.ipynb)|-|[最後結果](https://github.com/esult/Finall%20ensemble.zip)|
+model_640|640|[yolov7.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_E6E.ipynb)|[model_640.pt](https://drive.google.com/file/d/1R8ez_bH2H5KsshnWdeA4rcYTcUcqbHhD/view?usp=sharing)|[模型一結果](https://github.comesin.zip)|
+model_1280|1280|[yolov7.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_E6E.ipynb)|[model_640.pt](https://drive.google.com/file/d/1Cbgkb0SNsghGo8x0SgHgYPR9kAbOJjLA/view?usp=sharing)|[模型二結果](https://github.com/main/Result/tu-eca_nfnet_l2_in.zip)|
+model_1920|1920|[yolov7.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_E6E.ipynb)|[tu.pt](https://drive.google.com/file/d/1lkkzq2SbDvxgvNDKGoGMiRDNEZ7399Cm/view?usp=sharing)|[模型三結果](https://github.n/blob/msorigin.zip)
+Ensemble|NMS Ensemble|[Image_ensemble.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_E6E.ipynb)|-|[最後結果](https://github.le.zip)|
 
 ## Final result  
   
