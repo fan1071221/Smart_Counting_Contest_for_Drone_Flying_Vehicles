@@ -27,9 +27,9 @@ Set hyperparameters and revelent training path in [**TWStreet.yaml**](https://gi
 
 ## Predict via each trained classifier  
 You can download our pretrained model from [**pretrained**](./pretrained).  
-To predict the orchid images by single classifier, see [**predict.py**](predict.py) and run:  
+To predict the images by two classifier, see [**detect.py**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/prb/detect.py) and run:  
 ```
-!python detect.py --weights best_1920.pt weight/e6e-best.pt --img 1920 --source /content/drive/MyDrive/public --augment
+!python detect.py --weights weight/best_1920.pt weight/e6e-best.pt --img 1920 --source /content/drive/MyDrive/public --augment
 ```
 ## Model and Weights
 The models save to the google driver, then you can download
