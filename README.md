@@ -7,13 +7,13 @@ Private Rank: 9th
 - [**無人機飛行載具之智慧計數競賽**](https://tbrain.trendmicro.com.tw/Competitions/Details/25)  
 
 
-<a href="https://tbrain.trendmicro.com.tw/Competitions/Details/25"><img src="https://i.ibb.co/6PtWBSV/competition-image.png" title="#source: imgur.com" /></a>  
+<a href="https://tbrain.trendmicro.com.tw/Competitions/Details/25"><img width="800" height="200" src="https://i.ibb.co/6PtWBSV/competition-image.png" title="#source: imgur.com" /></a>  
 ## Architecture Diagram
 - Training Model Architecture
-<img width="750" height="300" src="https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Architecture_Diagram/Training_Architecture.png" title="#source: imgur.com" />  
+<img width="650" height="250" src="https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Architecture_Diagram/Training_Architecture.png" title="#source: imgur.com" />  
 
 - Ensemble Two Models
-<img width="750" height="200" src="https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Architecture_Diagram/Ensemble_Detect.png" title="#source: imgur.com" />
+<img width="650" height="175" src="https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Architecture_Diagram/Ensemble_Detect.png" title="#source: imgur.com" />
 
 
 ## How to use
