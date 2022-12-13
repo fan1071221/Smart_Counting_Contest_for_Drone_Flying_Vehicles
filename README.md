@@ -23,7 +23,7 @@ You can refer to followiing ipynb, I have already described in detail.
 You can refer to the [**Data_Processing**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/tree/main/Data_Processing) to processing the dataset.  
 
 ## Train each classifier  
-Set hyperparameters and revelent training path in [**TWStreet.yaml**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/prb/data/TWStreet.yaml) and simply run [**train.py**](train.py).  
+Set hyperparameters and revelent training path in [**TWStreet.yaml**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/prb/data/TWStreet.yaml) and run [**train.py**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/prb/train.py).  
 
 ## Predict via each trained classifier  
 You can download our pretrained model from [**pretrained**](./pretrained).  
