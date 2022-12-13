@@ -53,6 +53,8 @@ Ensemble|1920*1920|[Ensemble.ipynb](https://github.com/fan1071221/Smart_Counting
 
 ## Final result  
   
+- Predict Result  
+<img width="750" height="500" src="https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Predict%20_Images/img1629.png" title="#source: imgur.com" />
 - Score (accuracy) 
 
 Public Score|Private Score
