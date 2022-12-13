@@ -1,0 +1,9 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: ../datasets/TWStreet/annotations/train.txt
+val: ../datasets/TWStreet/annotations/val.txt
+
+# number of classes
+nc: 4
+
+# class names
+names: ['car','hov','person','motorcycle']
