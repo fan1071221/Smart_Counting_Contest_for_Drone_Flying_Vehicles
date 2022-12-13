@@ -31,6 +31,9 @@ You can refer to the [**Data_Processing**](https://github.com/fan1071221/Smart_C
 
 ## Train each classifier  
 Set hyperparameters and revelent training path in [**TWStreet.yaml**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/prb/data/TWStreet.yaml) and run [**train.py**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/prb/train.py).  
+```
+!python train.py --batch-size 2 --data data/TWStreet.yaml --epochs 600 --img 1920 --cfg cfg/training/PRB_Series/yolov7-PRB.yaml --weights 'yolov7-prb.pt' --name yolov7-prb-custom --hyp data/hyp.scratch.custom.yaml
+```
 
 ## Predict via each trained classifier  
 You can download our pretrained model from [**pretrained**](https://drive.google.com/drive/folders/1EchhQHj8jSsg1SAR4GpvZw_OJaNTsT8o?usp=sharing).  
