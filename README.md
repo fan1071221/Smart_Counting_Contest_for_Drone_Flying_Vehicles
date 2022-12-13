@@ -26,7 +26,7 @@ You can refer to the [**Data_Processing**](https://github.com/fan1071221/Smart_C
 Set hyperparameters and revelent training path in [**TWStreet.yaml**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/prb/data/TWStreet.yaml) and run [**train.py**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/prb/train.py).  
 
 ## Predict via each trained classifier  
-You can download our pretrained model from [**pretrained**](./pretrained).  
+You can download our pretrained model from [**pretrained**](https://drive.google.com/drive/folders/1EchhQHj8jSsg1SAR4GpvZw_OJaNTsT8o?usp=sharing).  
 To predict the images by two classifier, see [**detect.py**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/prb/detect.py) and run:  
 ```
 !python detect.py --weights weight/best_1920.pt weight/e6e-best.pt --img 1920 --source /content/drive/MyDrive/public --augment
