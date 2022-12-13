@@ -57,7 +57,8 @@ Public Score|Private Score
 ## Reference  
 - https://github.com/pingyang1117/PRBNet_PyTorch
 - https://github.com/WongKinYiu/yolov7
-
+- https://github.com/ultralytics/yolov5
+- https://github.com/EricArazo/PseudoLabeling
 
 ## Contact us  
 - Hong-Wei Fan : q36111257@gs.ncku.edu.tw  
