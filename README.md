@@ -10,7 +10,7 @@ Private Rank: 9th
 <a href="https://tbrain.trendmicro.com.tw/Competitions/Details/25"><img width="800" height="200" src="https://i.ibb.co/6PtWBSV/competition-image.png" title="#source: imgur.com" /></a>  
 ## Architecture Diagram
 - Training Model Architecture
-<img width="650" height="250" src="https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Architecture_Diagram/Training_Architecture.png" title="#source: imgur.com" />  
+<img width="625" height="225" src="https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Architecture_Diagram/Training_Architecture.png" title="#source: imgur.com" />  
 
 - Ensemble Two Models
 <img width="650" height="175" src="https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Architecture_Diagram/Ensemble_Detect.png" title="#source: imgur.com" />
@@ -56,7 +56,7 @@ Ensemble|1920*1920|[Ensemble.ipynb](https://github.com/fan1071221/Smart_Counting
 - Predict Result  
 <img width="750" height="500" src="https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Predict%20_Images/img1629.png" title="#source: imgur.com" />  
 
-- Score (accuracy) 
+- Score
 
 Public Score|Private Score
 -------|-------
