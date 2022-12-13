@@ -9,6 +9,9 @@ Private Rank: 9th
 
 <a href="https://tbrain.trendmicro.com.tw/Competitions/Details/25"><img src="https://i.ibb.co/6PtWBSV/competition-image.png" title="#source: imgur.com" /></a>  
 
+## How to use
+You can refer to followiing ipynb, I have already described in detail.  
+ - [**AICUP_Drone.ipynb**](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/AICUP_Drone.ipynb)
 ## Installation
 <pre><code> 
 !git clone https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles.git
