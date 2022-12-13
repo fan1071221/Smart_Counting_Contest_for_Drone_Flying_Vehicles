@@ -30,13 +30,13 @@ To predict the orchid images by single classifier, see [**predict.py**](predict.
 ```
 ## Model and Weights
 The models save to the google driver, then you can download
-名稱|圖片大小|Jupyter Notebook|權重檔|模型預測結果|
---|--|--|--|--|
-model_640|640*640|[YOLOv7-PRB-640.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_PRB_640.ipynb)|[model_640.pt](https://drive.google.com/file/d/1MosJhlmaTHV15oxcR8AjtaLLAaIQuph4/view?usp=share_link)|[模型一結果](https://github.comesin.zip)|
-model_1280|1280*1280|[YOLOv7-PRB-1280.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_PRB_1280.ipynb)|[model_640.pt](https://drive.google.com/file/d/11e78nhtlcH_nhVLBI9tkTpt6ixQUnJI6/view?usp=share_link)|[模型二結果](https://github.com/main/Result/tu-eca_nfnet_l2_in.zip)|
-model_1920|1920*1920|[YOLOv7-PRB-1920.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_PRB_1920.ipynb)|[tu.pt](https://drive.google.com/file/d/1Zrun1Ek_8xsNdzaJT2BdX651vhNT1T4Y/view?usp=share_link)|[模型三結果](https://github.n/blob/msorigin.zip)
-YOLOv7_E6E|1920*1920|[YOLOv7_E6E.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_E6E.ipynb)|[tu.pt](https://drive.google.com/file/d/1Zrun1Ek_8xsNdzaJT2BdX651vhNT1T4Y/view?usp=share_link)|[模型三結果](https://github.n/blob/msorigin.zip)
-Ensemble|1920*1920|[Ensemble.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Ensemble.ipynb)|-|[最後結果](https://github.le.zip)|
+Name|Image Size|Jupyter Notebook|Model|
+--|--|--|--|
+model_640|640*640|[YOLOv7-PRB-640.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_PRB_640.ipynb)|[best_640.pt](https://drive.google.com/file/d/1MosJhlmaTHV15oxcR8AjtaLLAaIQuph4/view?usp=sharing)|
+model_1280|1280*1280|[YOLOv7-PRB-1280.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_PRB_1280.ipynb)|[best_1280.pt](https://drive.google.com/file/d/11e78nhtlcH_nhVLBI9tkTpt6ixQUnJI6/view?usp=sharing)|
+model_1920|1920*1920|[YOLOv7-PRB-1920.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_PRB_1920.ipynb)|[best_1920.pt](https://drive.google.com/file/d/1Zrun1Ek_8xsNdzaJT2BdX651vhNT1T4Y/view?usp=sharing)|
+YOLOv7_E6E|1920*1920|[YOLOv7_E6E.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/YOLOv7_E6E.ipynb)|[e6e-best.pt](https://drive.google.com/file/d/13IKYlxlzy7zieYJwqqf9Z1Tp-x7xaHUr/view?usp=sharing)|
+Ensemble|1920*1920|[Ensemble.ipynb](https://github.com/fan1071221/Smart_Counting_Contest_for_Drone_Flying_Vehicles/blob/main/Ensemble.ipynb)|----
 
 ## Final result  
   
